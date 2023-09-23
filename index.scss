@@ -1,6 +1,15 @@
+@mixin hatterek{
+        background-color: black;
+}
 #blockage-photograpy-image{
         width: 100%;
         height: auto;
+}
+#fooldal, #rolam, #fotozas, #galeria  {
+        @include hatterek();
+}
+#nav{
+        background-color: darkgray;
 }
 
 /* Media Query */
