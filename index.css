@@ -3,4 +3,12 @@
   height: auto;
 }
 
+#fooldal, #rolam, #fotozas, #galeria {
+  background-color: black;
+}
+
+#nav {
+  background-color: darkgray;
+}
+
 /* Media Query *//*# sourceMappingURL=index.css.map */
